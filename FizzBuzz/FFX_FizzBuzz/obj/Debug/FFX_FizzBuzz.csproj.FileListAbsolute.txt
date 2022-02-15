@@ -1,0 +1,7 @@
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\bin\Debug\FFX_FizzBuzz.exe.config
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\bin\Debug\FFX_FizzBuzz.exe
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\bin\Debug\FFX_FizzBuzz.pdb
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\obj\Debug\FFX_FizzBuzz.csprojAssemblyReference.cache
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\obj\Debug\FFX_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\obj\Debug\FFX_FizzBuzz.exe
+C:\Users\sathiyan.s\Desktop\FFX\FFX_FizzBuzz\obj\Debug\FFX_FizzBuzz.pdb
